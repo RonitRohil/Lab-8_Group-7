@@ -143,3 +143,6 @@ it('Should create new User', async() => {
 # result
 
 ![image](https://user-images.githubusercontent.com/99037272/233171809-8343099e-a8c7-464a-bf1d-32f41c52ba2c.png)
+
+![image](https://user-images.githubusercontent.com/99037272/233206044-30802480-ca6f-4d07-b187-2c48d35053a1.png)
+
